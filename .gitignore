@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# NodeJS
+client/node_modules/
+*.cache/
+
+# AI models
+nlp_service/model_storage/
+*.safetensors
+*.pkl
+*.pt
+
+# Large libs
+*.dll
+*.lib
+
+# OS
+.DS_Store
