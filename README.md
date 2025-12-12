@@ -1,4 +1,4 @@
-Smart Comment Moderation — Project README
+Link Google Colab :  https://colab.research.google.com/drive/18T43t6Cr6y4wXh5LlE2kGLOU-cv0M6yS?usp=sharing
 
 This repository contains a small microservice architecture that simulates a comment moderation pipeline similar to what social networks use. The system is split into three services:
 
